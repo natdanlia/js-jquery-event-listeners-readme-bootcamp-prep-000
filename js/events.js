@@ -26,3 +26,16 @@ function pressIt(){
     }
   })
 }
+
+function submitIt(){
+  
+}
+
+
+
+
+
+
+
+
+
