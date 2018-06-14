@@ -20,7 +20,7 @@ function frameIt(){
 }
 
 function pressIt(){
-  $('form').on('load', function(key){
+  $('input:first').on('load', function(key){
     if(key.which == 71){
       alert('G has been pressed!')
     }
