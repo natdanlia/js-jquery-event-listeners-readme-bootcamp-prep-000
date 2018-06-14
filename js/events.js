@@ -20,5 +20,7 @@ function frameIt(){
 }
 
 function pressIt(){
-  $('form input:first-child').on
+  $('form input:first-child').on('load', function(key){
+    if(key.which == )
+  })
 }
